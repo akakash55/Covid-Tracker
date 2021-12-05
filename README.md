@@ -1,4 +1,4 @@
-Deployes Version - https://akakash55.github.io/Covid-Tracker/
+Deployed Version - https://akakash55.github.io/Covid-Tracker/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
